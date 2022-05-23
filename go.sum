@@ -1,0 +1,6 @@
+github.com/lukmansjy/go-say-hello v1.0.1 h1:HUdU1oaAjO9EIOZtg2D3hX8AK2g9y8wW2t8xVfMllAE=
+github.com/lukmansjy/go-say-hello v1.0.1/go.mod h1:1mK6uEiftOaqfqo0eWWiaJoqPfLmqo/1XVrZfWUB8+s=
+github.com/lukmansjy/go-say-hello v1.1.0 h1:dE7VGv/+MRoK9SeoHiOhxN6fsR7xFTaOk0JhX+l/e84=
+github.com/lukmansjy/go-say-hello v1.1.0/go.mod h1:1mK6uEiftOaqfqo0eWWiaJoqPfLmqo/1XVrZfWUB8+s=
+github.com/lukmansjy/go-say-hello/v2 v2.0.0 h1:M2Zs96PpWAQcMrOJ6e2vUUbnBV4X/DoFaT3rqjWL4OI=
+github.com/lukmansjy/go-say-hello/v2 v2.0.0/go.mod h1:BkZsHRoSVxLEQka93M18ecud0tPO8bdZrLkJzEhGWC4=
